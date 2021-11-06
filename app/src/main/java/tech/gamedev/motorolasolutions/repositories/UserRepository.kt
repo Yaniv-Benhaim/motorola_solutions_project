@@ -49,9 +49,8 @@ class UserRepository(
                     */
                     resource.data?.results?.forEach {
                         userDao.insertUser(it.getUser())
-                        _isLoading.value = false
                     }
-
+                    _isLoading.value = false
                 }
             }
         } catch (e: Exception) {
