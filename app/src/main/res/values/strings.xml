@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Motorola Solutions</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="no_internet_connection">NO INTERNET CONNECTION</string>
+    <string name="motorola_solutions">Motorola Solutions</string>
+    <string name="example_name">Angela Berksen</string>
+    <string name="birthday_in">Birthday in</string>
+    <string name="days">days</string>
+    <string name="send_message">Send Message</string>
+    <string name="example_days">150</string>
+    <string name="profile_image">profile image</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="congratulate">Congratulate %1$s! with his/her birthday</string>
+</resources>
